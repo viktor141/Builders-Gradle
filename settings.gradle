@@ -1,0 +1,5 @@
+rootProject.name = 'BuildersGradle'
+
+include 'db'
+include 'service'
+include 'api'
